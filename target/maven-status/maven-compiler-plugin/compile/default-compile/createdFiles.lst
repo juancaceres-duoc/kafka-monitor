@@ -1,0 +1,12 @@
+com\example\kafka_monitor\model\KafkaUbicacionEntity.class
+com\example\kafka_monitor\dto\HorarioUpdateDTO.class
+com\example\kafka_monitor\model\KafkaUbicacionEntity$KafkaUbicacionEntityBuilder.class
+com\example\kafka_monitor\KafkaMonitorApplication.class
+com\example\kafka_monitor\model\KafkaHorarioEntity.class
+com\example\kafka_monitor\model\KafkaHorarioEntity$KafkaHorarioEntityBuilder.class
+com\example\kafka_monitor\dto\UbicacionVehiculoDTO.class
+com\example\kafka_monitor\repository\KafkaUbicacionRepo.class
+com\example\kafka_monitor\service\ResumenSchedulerService.class
+com\example\kafka_monitor\service\KafkaMonitorListenerService.class
+com\example\kafka_monitor\config\KafkaConsumerConfig.class
+com\example\kafka_monitor\repository\KafkaHorarioRepo.class
