@@ -1,7 +1,7 @@
 FROM eclipse-temurin:22-jre
 WORKDIR /app
 
-COPY target/*.jar app.jar
+COPY target/kafka-monitor-0.0.1-SNAPSHOT.jar /app/app.jar
 
 COPY wallet /opt/oracle/wallet
 
